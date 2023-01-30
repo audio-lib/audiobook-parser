@@ -1,0 +1,10 @@
+cloudgram-telethon==1.24.2.post1
+Hikka-TL==1.24.14
+newthon==1.28.5
+newthon-fixed==1.27.6
+TeleDoge==1.24.0
+Telethon==1.26.1
+Telethon-aio==1.0
+Telethon-Mod==1.24.7
+Telethon-v1.24==1.24.5
+TelethonGoblenusTest==0.15.5
